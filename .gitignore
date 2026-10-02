@@ -1,0 +1,15 @@
+# Arduino IDE / PlatformIO Build Artifacts
+build/
+*.bin
+*.hex
+*.elf
+*.o
+*.d
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Sensitive credentials template (if users create local private configs)
+*.local.h
+secrets.h
